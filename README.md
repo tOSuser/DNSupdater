@@ -4,19 +4,18 @@ Based on GoDaddy.sh by Nazar78 @ TeaNazaR.com v1.0 - 20160513 - 1st release.
 Adapted to work with log file and multi domains
 Hossein Ebrahimi - @he71.com
 
-* license AGPL-3.0 
+license AGPL-3.0 
+This code is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License, version 3,
+as published by the Free Software Foundation.
 
-* This code is free software: you can redistribute it and/or modify
-* it under the terms of the GNU Affero General Public License, version 3,
-* as published by the Free Software Foundation.
-*
-* This program is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-* GNU Affero General Public License for more details.
-*
-* You should have received a copy of the GNU Affero General Public License, version 3,
-* along with this program.  If not, see <http://www.gnu.org/licenses/>
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License, version 3,
+along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 ----
 ### v 0.51 25-04-2018 - 
